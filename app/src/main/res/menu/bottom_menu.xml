@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="dashboard"
+        android:id="@+id/dashboardFragment"
+        android:icon="@drawable/ic_dashboard"/>
+    <item android:title="gallery"
+        android:id="@+id/galleryFragment"
+        android:icon="@drawable/ic_photo_library"/>
+    <item android:title="notification"
+        android:id="@+id/notificationFragment"
+        android:icon="@drawable/ic_notifications"/>
+    <item android:title="private things"
+        android:id="@+id/privatethingsFragment"
+        android:icon="@drawable/ic_privacy_tip"/>
+</menu>
